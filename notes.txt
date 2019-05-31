@@ -4,3 +4,8 @@ Most of the time you will need to do these steps:
     git commit -m "any text that describes your changes"
     git push
 2. you might have to git pull -r if it complains
+
+
+Create a local web server
+1. npm install -g http-server
+2. http-server

@@ -1,0 +1,8 @@
+h1 {
+    font-size: 2rem;
+    color: red;
+    padding: 1rem;
+    border: solid;
+    display:flex;
+    justify-content: center;
+}
