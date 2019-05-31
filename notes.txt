@@ -9,3 +9,4 @@ Most of the time you will need to do these steps:
 Create a local web server
 1. npm install -g http-server
 2. http-server
+you might have to run npm install if things aren't working
