@@ -1,0 +1,6 @@
+Most of the time you will need to do these steps:
+1. When complete with work and want to update github
+    git add .
+    git commit -m "any text that describes your changes"
+    git push
+2. you might have to git pull -r if it complains
